@@ -1,0 +1,2 @@
+#Hi ajas this is fist setup the git hub
+# push to git hub
